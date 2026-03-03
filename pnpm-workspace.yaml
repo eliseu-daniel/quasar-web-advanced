@@ -1,2 +1,5 @@
-# https://pnpm.io/settings
+ignoredBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+
 shamefullyHoist: true
